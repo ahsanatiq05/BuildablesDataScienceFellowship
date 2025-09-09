@@ -16,7 +16,7 @@ This repository contains all the materials, notebooks, assignments, and resource
 |------|------------------------------------------|------------------------------------------------------------------|
 | 1    | Introduction to Data Science             | Overview, tools, Python basics, Jupyter, and data science setup  |
 | 2    | Statistics                               | Pandas, missing data, outliers, data transformation              |
-
+| 3    |                                          |                                                                  |
 ---
 
 ## 📝 How to Use
